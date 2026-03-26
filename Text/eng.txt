@@ -1,0 +1,39 @@
+Python
+
+Python is a high-level, general-purpose programming language created by
+Guido van Rossum and first released in 1991. It's known for its clean, readable
+syntax that emphasizes simplicity and code readability
+
+Key Characteristics
+
+Easy to Read & Write — Python uses plain English-like syntax and indentation
+to structure code, making it one of the most beginner-friendly languages.
+
+Interpreted — Python code is executed line by line at runtime, without needing to
+‘be compiled beforehand.
+
+Dynamically Typed — You don't need to declare variable types explicitly; Python
+figures them out at runtime
+
+‘Multi-Paradigm — Supports object-oriented, procedural, and functional
+programming styles.
+
+Huge Standard Library — Comes with a vast collection of built-in modules for
+tasks like file /O, networking, math, and more.
+
+What Python Is Used For
++ Web Development — Django, Flak, Eas APL
++ Data Science & Analytics — Pandas, NumPy
++ Machine Learning & AI — TensorFlow, ByTous sikit-leara
++ Automation & Scripting — Automating repetitive tasks
++ Cybersecurity — Penetration testing tools
++ Scientific Computing — Research and simulations
++ Game Development — Byzame
+A Simple Example
+# Hello, World!
+prnt("Hello, World")
+
+#A simple fonction
+
+def greet(name):
+
