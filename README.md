@@ -1,9 +1,7 @@
 <div class="command-container" style="background: #0d1117; padding: 30px; border-radius: 12px; border: 1px solid #30363d; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; max-width: 600px;">
-    
     <h2 style="color: #58a6ff; border-bottom: 1px solid #21262d; padding-bottom: 15px; margin-top: 0;">
         🚀 Bot Command Menu
     </h2>
-    
     <table style="width: 100%; border-collapse: collapse; margin-top: 20px; text-align: left;">
         <thead>
             <tr style="color: #8b949e; font-size: 0.9em; text-transform: uppercase;">
@@ -38,7 +36,6 @@
             </tr>
         </tbody>
     </table>
-
     <p style="margin-top: 25px; font-size: 0.85em; color: #8b949e; text-align: center;">
         <em>Tip: Type the command in the chat bar to execute.</em>
     </p>
